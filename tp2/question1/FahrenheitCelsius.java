@@ -32,6 +32,7 @@ public class FahrenheitCelsius {
 	 *            la valeur en degré Fahrenheit
 	 * @return la conversion en degré Celsius
 	 */
+	// Converts Fahrenheit to Celcius
 	public static float fahrenheitEnCelsius(int f) {
 
 		return 0.F; // à compléter en remplaçant ce return 0.F par la fonction
